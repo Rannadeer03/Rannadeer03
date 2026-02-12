@@ -1,9 +1,22 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rannadeer%20Kumar%20Seetha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=220&section=header&text=Rannadeer%20Kumar%20Seetha&fontSize=40&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Building%20Intelligent%20Systems%20Beyond%20Software&descAlignY=62&descSize=18" width="100%">
+</p>
+<h1 align="center">Hi 👋, I'm <b>Rannadeer Kumar Seetha</b></h1>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+Tailwind+Enthusiast;AI+Generative+Project+Explorer;Building+Clean+%26+Modern+UI%2FUX;Always+Learning+New+Things+🚀">
 </p>
 
-<h1 align="center">Hi 👋, I'm <b>Rannadeer Kumar Seetha</b></h1>
+<p align="center">
+  <a href="https://github.com/Rannadeer03">
+    <img src="https://img.shields.io/github/followers/Rannadeer03?label=Follow%20Me&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Rannadeer03">
+    <img src="https://komarev.com/ghpvc/?username=Rannadeer03&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+  </a>
+</p>
+
 
 <p align="center">
 🚀 Explorer | AI • ML • Full Stack • IoT • Robotics <br>
@@ -13,6 +26,8 @@ I love building real-world tech that connects software with hardware.
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Currently working on **an Agriculture-Tech Startup to modernize farming ecosystems**
 - 🌱 Learning **AI/ML, MAVLink, Raspberry Pi, and IoT Systems**
@@ -25,6 +40,9 @@ I love building real-world tech that connects software with hardware.
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://instagram.com/Rannadeer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+  </a>
   <a href="https://github.com/Rannadeer03">
     <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
@@ -36,46 +54,24 @@ I love building real-world tech that connects software with hardware.
   </a>
 </p>
 
+
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack  
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,python,cpp,c,git,github,vscode" />
 </p>
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
-</p>
+---
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-<b> + Web3 Integrations</b>
-</p>
+# 🧩 Tools & Platforms I Use  
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-<b> + Supabase</b>
-</p>
-
-### 🤖 AI / ML
-- PyTorch  
-- TensorFlow  
-- Scikit-Learn  
-
-### 📡 IoT & Robotics
-- Pixhawk Flight Controllers  
-- MAVLink Communication  
-- Raspberry Pi  
-- Sensor Integration & Drone Systems  
-
-### 🔧 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -131,12 +127,26 @@ A smart preparation platform for **GATE / JEE aspirants** where teachers manage 
 
 ---
 
-## ✨ Quote I Believe In
+# 🎯 Current Goals  
 
-> "Build things that exist beyond the screen."
+- Level up **backend & database** skills  
+- Build more **AI + Web** projects  
+- Create visually stunning UI/UX  
+- Contribute to open-source
+- To launch my startup
+
+---
+
+# ✨ Quote I Believe In  
+
+> _"First, solve the problem. Then, write the code."_  
 
 ---
 
 <p align="center">
-⭐ If you find my work interesting, consider starring my repositories!
+  ⭐ If you like my work, consider starring my repositories — it inspires me to build more!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shudhanshu9122?style=social" />
 </p>
